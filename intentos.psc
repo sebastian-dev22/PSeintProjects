@@ -3,7 +3,7 @@ Algoritmo intentoss
 	Definir num_ingresado, i, contador,num_secreto Como Entero
 	num_secreto<-azar(10)+1
 	
-	Escribir "adivine el numero (de 1 al 100):"
+	Escribir "adivine el numero (de 1 al 10):"
 	Leer  num_ingresado
 	contador <- 0
 	Mientras num_secreto<>num_ingresado Y intentos>1 Hacer
