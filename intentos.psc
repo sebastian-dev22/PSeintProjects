@@ -9,10 +9,10 @@ Algoritmo intentoss
 		Si num_secreto>num_ingresado Entonces
 			Escribir "muy bajo"
 		SiNo 
-			Escribir"muy alto"
+			Escribir"muy alto sarehtsgsdgfdh"
 		FinSi
 		intentos <- intentos-1
-		Escribir "le quedan",intentos,"intentos:"
+		Escribir "le quedan ooooooooooo",intentos,"intentos:"
 		Leer num_ingresado
 	FinMientras
 	
